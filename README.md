@@ -88,9 +88,9 @@ cd Fit-Fusion
 
 ## Contributors
 
-- Ashish Kumar
+- Saurav Kumar
 - Vishal Kanwar
 - Kaustubh Tripathi
-- Saurav Kumar
+- Ashish Kumar
 - Niket Mishra
 - Siri Sowmya Chitreddy
